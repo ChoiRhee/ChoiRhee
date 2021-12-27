@@ -27,5 +27,5 @@
 </br></br>
 <p align = 'center'>
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> <!-- 백준 랭크 표시 https://github.com/mazassumnida/mazassumnida -->
-<img src="https://github-readme-stats.vercel.app/api?username=ChoiRhee&theme=vue&show_icons=true"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rxhoi1942">
+<img src="https://github-readme-stats.vercel.app/api?username=ChoiRhee&theme=graywhite&show_icons=true"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rxhoi1942">
 </p>
