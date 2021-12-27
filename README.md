@@ -28,5 +28,4 @@
 </br></br>
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> <!-- 백준 랭크 표시 https://github.com/mazassumnida/mazassumnida -->
-
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ChoiRhee&theme=vue&show_icons=true"> <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rxhoi1942">
+![First Image](https://github-readme-stats.vercel.app/api?username=ChoiRhee&theme=graywhite&show_icons=true)   ![Second Image](http://mazassumnida.wtf/api/v2/generate_badge?boj=rxhoi1942)
