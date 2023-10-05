@@ -20,13 +20,3 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp
 </p>
-
-## 
-
-</br>
-<p align = 'center'>
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> <!-- 백준 랭크 표시 https://github.com/mazassumnida/mazassumnida -->
-<img src="https://github-readme-stats.vercel.app/api?username=ChoiRhee&theme=graywhite&show_icons=true">
-</br></br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rxhoi1942">
-</p>
